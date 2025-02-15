@@ -8,6 +8,7 @@ defusedxml==0.7.1
 distro==1.7.0
 Django==3.2.25
 django-allauth==0.54.0
+django-crispy-forms==1.14.0
 httplib2==0.20.2
 idna==3.10
 importlib-metadata==4.6.4
